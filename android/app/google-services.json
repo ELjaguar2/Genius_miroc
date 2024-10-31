@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "877876144066",
+    "project_id": "genius-project-423d1",
+    "storage_bucket": "genius-project-423d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877876144066:android:aabc569ce5e87eb0ed585b",
+        "android_client_info": {
+          "package_name": "com.miroc.genius"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO5fFzE7GX3XRWVK7GanLShIUto-zZCxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
